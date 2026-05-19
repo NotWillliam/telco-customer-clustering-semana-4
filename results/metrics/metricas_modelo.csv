@@ -1,0 +1,2 @@
+accuracy_random_forest,recall_random_forest,f1_random_forest,auc_roc_random_forest,auc_roc_logistic_regression,cantidad_variables,filas_dataset_procesado,filas_train,filas_test
+0.7491115849324804,0.7941176470588235,0.6272439281942978,0.8412882886147506,0.8348911068431597,30,7032,5625,1407

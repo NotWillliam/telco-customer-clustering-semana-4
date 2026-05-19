@@ -1,0 +1,11 @@
+{
+    "accuracy_random_forest": 0.7491115849324804,
+    "recall_random_forest": 0.7941176470588235,
+    "f1_random_forest": 0.6272439281942978,
+    "auc_roc_random_forest": 0.8412882886147506,
+    "auc_roc_logistic_regression": 0.8348911068431597,
+    "cantidad_variables": 30,
+    "filas_dataset_procesado": 7032,
+    "filas_train": 5625,
+    "filas_test": 1407
+}

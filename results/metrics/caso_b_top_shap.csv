@@ -1,0 +1,9 @@
+variable,contribucion_shap
+Contract_Two year,-0.09586212722689344
+tenure,-0.09310516740473407
+InternetService_Fiber optic,-0.052403755958660064
+TotalCharges,-0.04171276782397856
+InternetService_No,-0.02531488271366328
+PaymentMethod_Electronic check,-0.025128082848433514
+MonthlyCharges,-0.023961989664573635
+DeviceProtection_No internet service,-0.023323365552980372

@@ -1,0 +1,9 @@
+variable_lime,contribucion_lime
+Contract_Two year <= -0.56,0.14185171294363869
+tenure <= -0.95,0.13987920145773894
+-0.89 < InternetService_Fiber optic <= 1.13,0.12676265259508496
+TotalCharges <= -0.83,0.07683224193982802
+Contract_One year <= -0.51,0.0609383963880382
+-0.71 < PaymentMethod_Electronic check <= 1.40,0.05730191668913608
+OnlineSecurity_Yes <= -0.63,0.04124369997778069
+InternetService_No <= -0.53,0.04035928758876462

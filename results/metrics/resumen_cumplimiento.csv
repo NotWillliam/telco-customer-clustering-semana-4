@@ -1,0 +1,9 @@
+Punto solicitado,Evidencia generada
+4. Variables que mas influyen en la decision,Grafico SHAP global y archivo importancia_global_shap.csv
+4. Comparacion de explicaciones entre tecnicas,Grafico SHAP vs Random Forest vs Permutation y comparacion SHAP vs LIME
+4. Explicaciones individuales de predicciones concretas,Casos A y B con SHAP y LIME
+5. Variables con mayor impacto,01_variables_mayor_impacto_shap.png
+5. Comparacion de explicaciones,02_comparacion_tecnicas_globales.png y 03_comparacion_shap_lime_casos_individuales.png
+5. Casos individuales con decisiones explicadas,04_caso_a_decision_explicada.png y 05_caso_b_decision_explicada.png
+6. Analisis interpretativo y reflexivo,Seccion 6.2 del notebook
+"7. Reflexion sobre aprendizaje, variables con peso excesivo y explicabilidad",Seccion 6.3 del notebook
