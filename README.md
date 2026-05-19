@@ -63,3 +63,8 @@ jupyter notebook notebooks/ACTIVIDAD4_GRUPO_9_XAI_AMPLIADO_EJECUTADO.ipynb
 ```
 
 El dataset tambien se encuentra copiado en la raiz como `Telco-Customer-Churn.csv` para mantener compatibilidad con el codigo original del notebook.
+
+## Integrantes
+
+- Grupo 9
+- Integrantes: WILLIAM ANTONIO ANDRADE CASANOVA, HENRY EDUARDO MEDINA CASTILLO, ANTHONY WILLIAM MADEZCO POSADA
